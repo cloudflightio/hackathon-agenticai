@@ -32,12 +32,12 @@ This repository is dedicated to building, testing, and showcasing AI agents usin
 
    For a graphical interface:
    ```bash
-   uv run frontend.py
+   uv run agent_hackathon/frontend.py
    ```
 
    For a command line interface:
    ```bash
-   uv run terminal_interface.py
+   uv run agent_hackathon/terminal_interface.py
    ```
 
 5. (optional) Configure Your IDE to Use the Virtual Environment
