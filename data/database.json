@@ -1,0 +1,1144 @@
+{
+    "customers": [
+        {
+            "customer_id": "CUST001",
+            "name": "Sarah Chen",
+            "email": "sarah.chen@email.com",
+            "phone": "+1-555-0123",
+            "address": "123 Oak Street, Portland, OR 97201"
+        },
+        {
+            "customer_id": "CUST002",
+            "name": "Marcus Johnson",
+            "email": "m.johnson@email.com",
+            "phone": "+1-555-0456",
+            "address": "456 Pine Ave, Seattle, WA 98101"
+        },
+        {
+            "customer_id": "CUST003",
+            "name": "Elena Rodriguez",
+            "email": "elena.r@email.com",
+            "phone": "+1-555-0789",
+            "address": "789 Maple Dr, Austin, TX 73301"
+        },
+        {
+            "customer_id": "CUST004",
+            "name": "David Kim",
+            "email": "david.kim@email.com",
+            "phone": "+1-555-0321",
+            "address": "321 Elm St, Denver, CO 80201"
+        },
+        {
+            "customer_id": "CUST005",
+            "name": "Amanda Foster",
+            "email": "a.foster@email.com",
+            "phone": "+1-555-0654",
+            "address": "654 Cedar Ln, Miami, FL 33101"
+        },
+        {
+            "customer_id": "CUST006",
+            "name": "James Wilson",
+            "email": "james.w@email.com",
+            "phone": "+1-555-0987",
+            "address": "987 Birch Rd, Phoenix, AZ 85001"
+        },
+        {
+            "customer_id": "CUST007",
+            "name": "Lisa Park",
+            "email": "lisa.park@email.com",
+            "phone": "+1-555-0147",
+            "address": "147 Spruce Ave, Boston, MA 02101"
+        },
+        {
+            "customer_id": "CUST008",
+            "name": "Michael Brown",
+            "email": "m.brown@email.com",
+            "phone": "+1-555-0258",
+            "address": "258 Willow St, Chicago, IL 60601"
+        },
+        {
+            "customer_id": "CUST009",
+            "name": "Jennifer Davis",
+            "email": "j.davis@email.com",
+            "phone": "+1-555-0369",
+            "address": "369 Aspen Dr, Las Vegas, NV 89101"
+        },
+        {
+            "customer_id": "CUST010",
+            "name": "Robert Garcia",
+            "email": "robert.garcia@email.com",
+            "phone": "+1-555-0741",
+            "address": "741 Poplar Way, Atlanta, GA 30301"
+        },
+        {
+            "customer_id": "CUST011",
+            "name": "Jessica Miller",
+            "email": "jessica.m@email.com",
+            "phone": "+1-555-0852",
+            "address": "852 Hickory Pl, Nashville, TN 37201"
+        },
+        {
+            "customer_id": "CUST012",
+            "name": "Daniel Lee",
+            "email": "daniel.lee@email.com",
+            "phone": "+1-555-0963",
+            "address": "963 Walnut Ct, Salt Lake City, UT 84101"
+        },
+        {
+            "customer_id": "CUST013",
+            "name": "Ashley Thompson",
+            "email": "ashley.t@email.com",
+            "phone": "+1-555-0174",
+            "address": "174 Cherry St, Minneapolis, MN 55401"
+        },
+        {
+            "customer_id": "CUST014",
+            "name": "Christopher Martinez",
+            "email": "c.martinez@email.com",
+            "phone": "+1-555-0285",
+            "address": "285 Peach Ave, San Diego, CA 92101"
+        },
+        {
+            "customer_id": "CUST015",
+            "name": "Emily White",
+            "email": "emily.white@email.com",
+            "phone": "+1-555-0396",
+            "address": "396 Plum Rd, Philadelphia, PA 19101"
+        },
+        {
+            "customer_id": "CUST016",
+            "name": "Matthew Anderson",
+            "email": "m.anderson@email.com",
+            "phone": "+1-555-0417",
+            "address": "417 Apple Dr, Houston, TX 77001"
+        },
+        {
+            "customer_id": "CUST017",
+            "name": "Samantha Taylor",
+            "email": "samantha.t@email.com",
+            "phone": "+1-555-0528",
+            "address": "528 Orange Ln, Detroit, MI 48201"
+        },
+        {
+            "customer_id": "CUST018",
+            "name": "Andrew Thomas",
+            "email": "andrew.thomas@email.com",
+            "phone": "+1-555-0639",
+            "address": "639 Grape St, Cleveland, OH 44101"
+
+        },
+        {
+            "customer_id": "CUST019",
+            "name": "Nicole Jackson",
+            "email": "nicole.j@email.com",
+            "phone": "+1-555-0741",
+            "address": "741 Lemon Ave, San Antonio, TX 78201"
+        },
+        {
+            "customer_id": "CUST020",
+            "name": "Kevin Harris",
+            "email": "kevin.harris@email.com",
+            "phone": "+1-555-0852",
+            "address": "852 Lime Rd, Jacksonville, FL 32201"
+        },
+        {
+            "customer_id": "CUST021",
+            "name": "Rachel Clark",
+            "email": "rachel.clark@email.com",
+            "phone": "+1-555-0963",
+            "address": "963 Coconut Dr, Honolulu, HI 96801"
+        },
+        {
+            "customer_id": "CUST022",
+            "name": "Brandon Lewis",
+            "email": "brandon.l@email.com",
+            "phone": "+1-555-0174",
+            "address": "174 Mango St, Orlando, FL 32801"
+        },
+        {
+            "customer_id": "CUST023",
+            "name": "Stephanie Robinson",
+            "email": "stephanie.r@email.com",
+            "phone": "+1-555-0285",
+            "address": "285 Kiwi Ave, San Jose, CA 95101"
+        },
+        {
+            "customer_id": "CUST024",
+            "name": "Tyler Walker",
+            "email": "tyler.walker@email.com",
+            "phone": "+1-555-0396",
+            "address": "396 Berry Ln, Charlotte, NC 28201"
+        },
+        {
+            "customer_id": "CUST025",
+            "name": "Megan Hall",
+            "email": "megan.hall@email.com",
+            "phone": "+1-555-0417",
+            "address": "417 Fig Rd, Columbus, OH 43201"
+        },
+        {
+            "customer_id": "CUST026",
+            "name": "Joshua Allen",
+            "email": "joshua.allen@email.com",
+            "phone": "+1-555-0528",
+            "address": "528 Date Dr, Fort Worth, TX 76101"
+        },
+        {
+            "customer_id": "CUST027",
+            "name": "Brittany Young",
+            "email": "brittany.y@email.com",
+            "phone": "+1-555-0639",
+            "address": "639 Nut St, Indianapolis, IN 46201"
+        },
+        {
+            "customer_id": "CUST028",
+            "name": "Nathan King",
+            "email": "nathan.king@email.com",
+            "phone": "+1-555-0741",
+            "address": "741 Seed Ave, San Francisco, CA 94101"
+        },
+        {
+            "customer_id": "CUST029",
+            "name": "Kayla Wright",
+            "email": "kayla.wright@email.com",
+            "phone": "+1-555-0852",
+            "address": "852 Pod Rd, Memphis, TN 38101"
+        },
+        {
+            "customer_id": "CUST030",
+            "name": "Justin Lopez",
+            "email": "justin.lopez@email.com",
+            "phone": "+1-555-0963",
+            "address": "963 Vine Dr, Baltimore, MD 21201"
+        },
+        {
+            "customer_id": "CUST031",
+            "name": "Crystal Hill",
+            "email": "crystal.hill@email.com",
+            "phone": "+1-555-0174",
+            "address": "174 Root St, Milwaukee, WI 53201"
+        },
+        {
+            "customer_id": "CUST032",
+            "name": "Aaron Scott",
+            "email": "aaron.scott@email.com",
+            "phone": "+1-555-0285",
+            "address": "285 Stem Ave, Albuquerque, NM 87101"
+        },
+        {
+            "customer_id": "CUST033",
+            "name": "Danielle Green",
+            "email": "danielle.g@email.com",
+            "phone": "+1-555-0396",
+            "address": "396 Leaf Ln, Tucson, AZ 85701"
+        },
+        {
+            "customer_id": "CUST034",
+            "name": "Jacob Adams",
+            "email": "jacob.adams@email.com",
+            "phone": "+1-555-0417",
+            "address": "417 Branch Rd, Fresno, CA 93701"
+        },
+        {
+            "customer_id": "CUST035",
+            "name": "Alexis Baker",
+            "email": "alexis.baker@email.com",
+            "phone": "+1-555-0528",
+            "address": "528 Bark Dr, Sacramento, CA 95814"
+        },
+        {
+            "customer_id": "CUST036",
+            "name": "Ethan Gonzalez",
+            "email": "ethan.g@email.com",
+            "phone": "+1-555-0639",
+            "address": "639 Twig St, Kansas City, MO 64101"
+        },
+        {
+            "customer_id": "CUST037",
+            "name": "Vanessa Nelson",
+            "email": "vanessa.n@email.com",
+            "phone": "+1-555-0741",
+            "address": "741 Petal Ave, Long Beach, CA 90801"
+        },
+        {
+            "customer_id": "CUST038",
+            "name": "Ian Carter",
+            "email": "ian.carter@email.com",
+            "phone": "+1-555-0852",
+            "address": "852 Bloom Rd, Virginia Beach, VA 23451"
+        },
+        {
+            "customer_id": "CUST039",
+            "name": "Courtney Mitchell",
+            "email": "courtney.m@email.com",
+            "phone": "+1-555-0963",
+            "address": "963 Bud Dr, Oakland, CA 94601"
+        },
+        {
+            "customer_id": "CUST040",
+            "name": "Austin Perez",
+            "email": "austin.perez@email.com",
+            "phone": "+1-555-0174",
+            "address": "174 Flora St, Mesa, AZ 85201"
+        },
+        {
+            "customer_id": "CUST041",
+            "name": "Sierra Roberts",
+            "email": "sierra.roberts@email.com",
+            "phone": "+1-555-0285",
+            "address": "285 Garden Ave, Colorado Springs, CO 80901"
+        },
+        {
+            "customer_id": "CUST042",
+            "name": "Caleb Turner",
+            "email": "caleb.turner@email.com",
+            "phone": "+1-555-0396",
+            "address": "396 Grove Ln, Omaha, NE 68101"
+        },
+        {
+            "customer_id": "CUST043",
+            "name": "Destiny Phillips",
+            "email": "destiny.p@email.com",
+            "phone": "+1-555-0417",
+            "address": "417 Field Rd, Raleigh, NC 27601"
+        },
+        {
+            "customer_id": "CUST044",
+            "name": "Logan Campbell",
+            "email": "logan.campbell@email.com",
+            "phone": "+1-555-0528",
+            "address": "528 Meadow Dr, Miami, FL 33130"
+        },
+        {
+            "customer_id": "CUST045",
+            "name": "Jasmine Parker",
+            "email": "jasmine.parker@email.com",
+            "phone": "+1-555-0639",
+            "address": "639 Prairie St, Tulsa, OK 74101"
+        },
+        {
+            "customer_id": "CUST046",
+            "name": "Hunter Evans",
+            "email": "hunter.evans@email.com",
+            "phone": "+1-555-0741",
+            "address": "741 Valley Ave, Wichita, KS 67201"
+        },
+        {
+            "customer_id": "CUST047",
+            "name": "Mariah Edwards",
+            "email": "mariah.e@email.com",
+            "phone": "+1-555-0852",
+            "address": "852 Ridge Rd, New Orleans, LA 70112"
+        },
+        {
+            "customer_id": "CUST048",
+            "name": "Cole Collins",
+            "email": "cole.collins@email.com",
+            "phone": "+1-555-0963",
+            "address": "963 Hill Dr, Cleveland, OH 44115"
+        },
+        {
+            "customer_id": "CUST049",
+            "name": "Jenna Stewart",
+            "email": "jenna.stewart@email.com",
+            "phone": "+1-555-0174",
+            "address": "174 Peak St, Tampa, FL 33602"
+        },
+        {
+            "customer_id": "CUST050",
+            "name": "Blake Morris",
+            "email": "blake.morris@email.com",
+            "phone": "+1-555-0285",
+            "address": "285 Summit Ave, Anaheim, CA 92805"
+        }
+    ],
+    "products": [
+        {
+            "product_id": "PROD001",
+            "name": "UltraBook Pro 15",
+            "category": "Laptops",
+            "price": 1299.99,
+            "stock_count": 15,
+            "description": "15-inch laptop with Intel i7, 16GB RAM, 512GB SSD"
+        },
+        {
+            "product_id": "PROD002",
+            "name": "SoundMax Wireless Headphones",
+            "category": "Audio",
+            "price": 199.99,
+            "stock_count": 8,
+            "description": "Noise-canceling wireless headphones with 30hr battery"
+        },
+        {
+            "product_id": "PROD003",
+            "name": "SmartPhone X12",
+            "category": "Phones",
+            "price": 899.99,
+            "stock_count": 23,
+            "description": "6.5-inch display, 128GB storage, triple camera system"
+        },
+        {
+            "product_id": "PROD004",
+            "name": "TabletPro 11",
+            "category": "Tablets",
+            "price": 649.99,
+            "stock_count": 12,
+            "description": "11-inch tablet with stylus support, perfect for creative work"
+        },
+        {
+            "product_id": "PROD005",
+            "name": "Gaming Monitor 27",
+            "category": "Monitors",
+            "price": 399.99,
+            "stock_count": 20,
+            "description": "27-inch 4K gaming monitor with 144Hz refresh rate"
+        },
+        {
+            "product_id": "PROD006",
+            "name": "Mechanical Keyboard RGB",
+            "category": "Accessories",
+            "price": 149.99,
+            "stock_count": 35,
+            "description": "RGB mechanical keyboard with blue switches"
+        },
+        {
+            "product_id": "PROD007",
+            "name": "Wireless Mouse Pro",
+            "category": "Accessories",
+            "price": 79.99,
+            "stock_count": 42,
+            "description": "Ergonomic wireless mouse with precision tracking"
+        },
+        {
+            "product_id": "PROD008",
+            "name": "UltraBook Air 13",
+            "category": "Laptops",
+            "price": 999.99,
+            "stock_count": 18,
+            "description": "13-inch ultralight laptop, perfect for travel"
+        },
+        {
+            "product_id": "PROD009",
+            "name": "Gaming Headset Elite",
+            "category": "Audio",
+            "price": 249.99,
+            "stock_count": 14,
+            "description": "Premium gaming headset with 7.1 surround sound"
+        },
+        {
+            "product_id": "PROD010",
+            "name": "SmartPhone Y8",
+            "category": "Phones",
+            "price": 599.99,
+            "stock_count": 31,
+            "description": "Budget-friendly smartphone with great camera"
+        },
+        {
+            "product_id": "PROD011",
+            "name": "Tablet Basic 10",
+            "category": "Tablets",
+            "price": 299.99,
+            "stock_count": 25,
+            "description": "10-inch tablet for everyday use"
+        },
+        {
+            "product_id": "PROD012",
+            "name": "Curved Monitor 34",
+            "category": "Monitors",
+            "price": 799.99,
+            "stock_count": 8,
+            "description": "34-inch ultrawide curved monitor for professionals"
+        },
+        {
+            "product_id": "PROD013",
+            "name": "Webcam HD Pro",
+            "category": "Accessories",
+            "price": 129.99,
+            "stock_count": 22,
+            "description": "1080p webcam with auto-focus and noise reduction"
+        },
+        {
+            "product_id": "PROD014",
+            "name": "Bluetooth Speaker",
+            "category": "Audio",
+            "price": 89.99,
+            "stock_count": 19,
+            "description": "Portable Bluetooth speaker with 20hr battery"
+        },
+        {
+            "product_id": "PROD015",
+            "name": "External SSD 1TB",
+            "category": "Storage",
+            "price": 179.99,
+            "stock_count": 28,
+            "description": "High-speed external SSD for backup and storage"
+        },
+        {
+            "product_id": "PROD016",
+            "name": "Gaming Laptop Beast",
+            "category": "Laptops",
+            "price": 2299.99,
+            "stock_count": 5,
+            "description": "High-performance gaming laptop with RTX graphics"
+        },
+        {
+            "product_id": "PROD017",
+            "name": "Earbuds Pro",
+            "category": "Audio",
+            "price": 179.99,
+            "stock_count": 33,
+            "description": "True wireless earbuds with active noise canceling"
+        },
+        {
+            "product_id": "PROD018",
+            "name": "SmartPhone Z5",
+            "category": "Phones",
+            "price": 1199.99,
+            "stock_count": 16,
+            "description": "Flagship smartphone with advanced AI camera"
+        },
+        {
+            "product_id": "PROD019",
+            "name": "Drawing Tablet Pro",
+            "category": "Tablets",
+            "price": 899.99,
+            "stock_count": 9,
+            "description": "Professional drawing tablet with pressure sensitivity"
+        },
+        {
+            "product_id": "PROD020",
+            "name": "Monitor Stand Dual",
+            "category": "Accessories",
+            "price": 159.99,
+            "stock_count": 17,
+            "description": "Adjustable dual monitor stand"
+        },
+        {
+            "product_id": "PROD021",
+            "name": "USB-C Hub",
+            "category": "Accessories",
+            "price": 69.99,
+            "stock_count": 41,
+            "description": "7-in-1 USB-C hub with HDMI and ethernet"
+        },
+        {
+            "product_id": "PROD022",
+            "name": "Power Bank 20000mAh",
+            "category": "Accessories",
+            "price": 49.99,
+            "stock_count": 36,
+            "description": "High-capacity power bank with fast charging"
+        },
+        {
+            "product_id": "PROD023",
+            "name": "4K Monitor 32",
+            "category": "Monitors",
+            "price": 549.99,
+            "stock_count": 12,
+            "description": "32-inch 4K monitor for content creation"
+        },
+        {
+            "product_id": "PROD024",
+            "name": "Laptop Cooling Pad",
+            "category": "Accessories",
+            "price": 39.99,
+            "stock_count": 24,
+            "description": "Laptop cooling pad with adjustable fans"
+        },
+        {
+            "product_id": "PROD025",
+            "name": "Wireless Charger",
+            "category": "Accessories",
+            "price": 34.99,
+            "stock_count": 29,
+            "description": "Fast wireless charger for smartphones"
+        },
+        {
+            "product_id": "PROD026",
+            "name": "Office Laptop Standard",
+            "category": "Laptops",
+            "price": 699.99,
+            "stock_count": 22,
+            "description": "Reliable laptop for office work and productivity"
+        },
+        {
+            "product_id": "PROD027",
+            "name": "Studio Headphones",
+            "category": "Audio",
+            "price": 299.99,
+            "stock_count": 11,
+            "description": "Professional studio headphones for audio production"
+        },
+        {
+            "product_id": "PROD028",
+            "name": "SmartPhone Mini",
+            "category": "Phones",
+            "price": 449.99,
+            "stock_count": 27,
+            "description": "Compact smartphone with flagship features"
+        },
+        {
+            "product_id": "PROD029",
+            "name": "Kids Tablet Safe",
+            "category": "Tablets",
+            "price": 199.99,
+            "stock_count": 15,
+            "description": "Kid-friendly tablet with parental controls"
+        },
+        {
+            "product_id": "PROD030",
+            "name": "Cable Management Kit",
+            "category": "Accessories",
+            "price": 24.99,
+            "stock_count": 38,
+            "description": "Complete cable management solution"
+        },
+        {
+            "product_id": "PROD031",
+            "name": "External HDD 2TB",
+            "category": "Storage",
+            "price": 89.99,
+            "stock_count": 34,
+            "description": "2TB external hard drive for mass storage"
+        },
+        {
+            "product_id": "PROD032",
+            "name": "Gaming Mouse RGB",
+            "category": "Accessories",
+            "price": 99.99,
+            "stock_count": 26,
+            "description": "High-precision gaming mouse with customizable RGB"
+        },
+        {
+            "product_id": "PROD033",
+            "name": "Soundbar Home",
+            "category": "Audio",
+            "price": 199.99,
+            "stock_count": 13,
+            "description": "Home theater soundbar with wireless subwoofer"
+        },
+        {
+            "product_id": "PROD034",
+            "name": "Convertible Laptop 2-in-1",
+            "category": "Laptops",
+            "price": 899.99,
+            "stock_count": 14,
+            "description": "2-in-1 convertible laptop with touchscreen"
+        },
+        {
+            "product_id": "PROD035",
+            "name": "Smart Watch Fitness",
+            "category": "Wearables",
+            "price": 249.99,
+            "stock_count": 21,
+            "description": "Fitness smartwatch with heart rate monitoring"
+        },
+        {
+            "product_id": "PROD036",
+            "name": "VR Headset Basic",
+            "category": "Gaming",
+            "price": 399.99,
+            "stock_count": 7,
+            "description": "Entry-level VR headset for immersive gaming"
+        },
+        {
+            "product_id": "PROD037",
+            "name": "Network Router Pro",
+            "category": "Networking",
+            "price": 179.99,
+            "stock_count": 18,
+            "description": "High-performance WiFi 6 router"
+        },
+        {
+            "product_id": "PROD038",
+            "name": "Security Camera Set",
+            "category": "Security",
+            "price": 299.99,
+            "stock_count": 10,
+            "description": "4-camera wireless security system"
+        },
+        {
+            "product_id": "PROD039",
+            "name": "Smart Speaker Mini",
+            "category": "Audio",
+            "price": 79.99,
+            "stock_count": 32,
+            "description": "Compact smart speaker with voice assistant"
+        },
+        {
+            "product_id": "PROD040",
+            "name": "Drone Camera 4K",
+            "category": "Cameras",
+            "price": 699.99,
+            "stock_count": 6,
+            "description": "4K camera drone with GPS stabilization"
+        },
+        {
+            "product_id": "PROD041",
+            "name": "Document Scanner",
+            "category": "Office",
+            "price": 149.99,
+            "stock_count": 16,
+            "description": "High-speed document scanner with OCR"
+        },
+        {
+            "product_id": "PROD042",
+            "name": "Graphics Card Pro",
+            "category": "Components",
+            "price": 899.99,
+            "stock_count": 4,
+            "description": "High-end graphics card for gaming and rendering"
+        },
+        {
+            "product_id": "PROD043",
+            "name": "Memory Kit 32GB",
+            "category": "Components",
+            "price": 199.99,
+            "stock_count": 23,
+            "description": "32GB DDR4 memory kit for laptops"
+        },
+        {
+            "product_id": "PROD044",
+            "name": "Printer All-in-One",
+            "category": "Office",
+            "price": 179.99,
+            "stock_count": 19,
+            "description": "Wireless all-in-one printer with scanner"
+        },
+        {
+            "product_id": "PROD045",
+            "name": "Desk Lamp LED",
+            "category": "Office",
+            "price": 59.99,
+            "stock_count": 30,
+            "description": "Adjustable LED desk lamp with USB charging"
+        },
+        {
+            "product_id": "PROD046",
+            "name": "Phone Case Premium",
+            "category": "Accessories",
+            "price": 29.99,
+            "stock_count": 45,
+            "description": "Premium protective case for smartphones"
+        },
+        {
+            "product_id": "PROD047",
+            "name": "Screen Protector Kit",
+            "category": "Accessories",
+            "price": 19.99,
+            "stock_count": 52,
+            "description": "Tempered glass screen protector kit"
+        },
+        {
+            "product_id": "PROD048",
+            "name": "Laptop Bag Premium",
+            "category": "Accessories",
+            "price": 89.99,
+            "stock_count": 28,
+            "description": "Premium laptop bag with multiple compartments"
+        },
+        {
+            "product_id": "PROD049",
+            "name": "Smart Thermostat",
+            "category": "Smart Home",
+            "price": 199.99,
+            "stock_count": 14,
+            "description": "WiFi-enabled smart thermostat with app control"
+        },
+        {
+            "product_id": "PROD050",
+            "name": "Action Camera Waterproof",
+            "category": "Cameras",
+            "price": 299.99,
+            "stock_count": 11,
+            "description": "Waterproof action camera with 4K recording"
+        }
+    ],
+    "orders": [
+        {
+            "order_id": "ORD001",
+            "customer_id": "CUST015",
+            "status": "Delivered",
+            "total_amount": 1299.99,
+            "order_date": "2024-05-10",
+            "tracking_number": "TRK001234567",
+            "items": [
+                {
+                    "product_id": "PROD001",
+                    "quantity": 1,
+                    "price": 1299.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD002",
+            "customer_id": "CUST032",
+            "status": "Shipped",
+            "total_amount": 449.98,
+            "order_date": "2024-05-18",
+            "tracking_number": "TRK001234568",
+            "items": [
+                {
+                    "product_id": "PROD002",
+                    "quantity": 1,
+                    "price": 199.99
+                },
+                {
+                    "product_id": "PROD035",
+                    "quantity": 1,
+                    "price": 249.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD003",
+            "customer_id": "CUST007",
+            "status": "Processing",
+            "total_amount": 1549.98,
+            "order_date": "2024-05-20",
+            "tracking_number": null,
+            "items": [
+                {
+                    "product_id": "PROD003",
+                    "quantity": 1,
+                    "price": 899.99
+                },
+                {
+                    "product_id": "PROD004",
+                    "quantity": 1,
+                    "price": 649.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD004",
+            "customer_id": "CUST023",
+            "status": "Cancelled",
+            "total_amount": 399.99,
+            "order_date": "2024-05-15",
+            "tracking_number": null,
+            "items": [
+                {
+                    "product_id": "PROD005",
+                    "quantity": 1,
+                    "price": 399.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD005",
+            "customer_id": "CUST041",
+            "status": "Delivered",
+            "total_amount": 229.98,
+            "order_date": "2024-05-08",
+            "tracking_number": "TRK001234569",
+            "items": [
+                {
+                    "product_id": "PROD006",
+                    "quantity": 1,
+                    "price": 149.99
+                },
+                {
+                    "product_id": "PROD007",
+                    "quantity": 1,
+                    "price": 79.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD006",
+            "customer_id": "CUST019",
+            "status": "Returned",
+            "total_amount": 999.99,
+            "order_date": "2024-05-05",
+            "tracking_number": "TRK001234570",
+            "items": [
+                {
+                    "product_id": "PROD008",
+                    "quantity": 1,
+                    "price": 999.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD007",
+            "customer_id": "CUST028",
+            "status": "Delivered",
+            "total_amount": 849.98,
+            "order_date": "2024-05-12",
+            "tracking_number": "TRK001234571",
+            "items": [
+                {
+                    "product_id": "PROD009",
+                    "quantity": 1,
+                    "price": 249.99
+                },
+                {
+                    "product_id": "PROD010",
+                    "quantity": 1,
+                    "price": 599.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD008",
+            "customer_id": "CUST004",
+            "status": "Shipped",
+            "total_amount": 1099.98,
+            "order_date": "2024-05-19",
+            "tracking_number": "TRK001234572",
+            "items": [
+                {
+                    "product_id": "PROD011",
+                    "quantity": 1,
+                    "price": 299.99
+                },
+                {
+                    "product_id": "PROD012",
+                    "quantity": 1,
+                    "price": 799.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD009",
+            "customer_id": "CUST036",
+            "status": "Processing",
+            "total_amount": 219.98,
+            "order_date": "2024-05-21",
+            "tracking_number": null,
+            "items": [
+                {
+                    "product_id": "PROD013",
+                    "quantity": 1,
+                    "price": 129.99
+                },
+                {
+                    "product_id": "PROD014",
+                    "quantity": 1,
+                    "price": 89.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD010",
+            "customer_id": "CUST011",
+            "status": "Delivered",
+            "total_amount": 2479.98,
+            "order_date": "2024-05-06",
+            "tracking_number": "TRK001234573",
+            "items": [
+                {
+                    "product_id": "PROD015",
+                    "quantity": 1,
+                    "price": 179.99
+                },
+                {
+                    "product_id": "PROD016",
+                    "quantity": 1,
+                    "price": 2299.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD011",
+            "customer_id": "CUST025",
+            "status": "Shipped",
+            "total_amount": 1379.98,
+            "order_date": "2024-05-17",
+            "tracking_number": "TRK001234574",
+            "items": [
+                {
+                    "product_id": "PROD017",
+                    "quantity": 1,
+                    "price": 179.99
+                },
+                {
+                    "product_id": "PROD018",
+                    "quantity": 1,
+                    "price": 1199.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD012",
+            "customer_id": "CUST002",
+            "status": "Cancelled",
+            "total_amount": 1059.98,
+            "order_date": "2024-05-14",
+            "tracking_number": null,
+            "items": [
+                {
+                    "product_id": "PROD019",
+                    "quantity": 1,
+                    "price": 899.99
+                },
+                {
+                    "product_id": "PROD020",
+                    "quantity": 1,
+                    "price": 159.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD013",
+            "customer_id": "CUST047",
+            "status": "Processing",
+            "total_amount": 119.98,
+            "order_date": "2024-05-22",
+            "tracking_number": null,
+            "items": [
+                {
+                    "product_id": "PROD021",
+                    "quantity": 1,
+                    "price": 69.99
+                },
+                {
+                    "product_id": "PROD022",
+                    "quantity": 1,
+                    "price": 49.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD014",
+            "customer_id": "CUST014",
+            "status": "Delivered",
+            "total_amount": 584.98,
+            "order_date": "2024-05-09",
+            "tracking_number": "TRK001234575",
+            "items": [
+                {
+                    "product_id": "PROD023",
+                    "quantity": 1,
+                    "price": 549.99
+                },
+                {
+                    "product_id": "PROD024",
+                    "quantity": 1,
+                    "price": 34.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD015",
+            "customer_id": "CUST039",
+            "status": "Shipped",
+            "total_amount": 734.98,
+            "order_date": "2024-05-16",
+            "tracking_number": "TRK001234576",
+            "items": [
+                {
+                    "product_id": "PROD025",
+                    "quantity": 1,
+                    "price": 34.99
+                },
+                {
+                    "product_id": "PROD026",
+                    "quantity": 1,
+                    "price": 699.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD016",
+            "customer_id": "CUST008",
+            "status": "Returned",
+            "total_amount": 749.98,
+            "order_date": "2024-05-07",
+            "tracking_number": "TRK001234577",
+            "items": [
+                {
+                    "product_id": "PROD027",
+                    "quantity": 1,
+                    "price": 299.99
+                },
+                {
+                    "product_id": "PROD028",
+                    "quantity": 1,
+                    "price": 449.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD017",
+            "customer_id": "CUST022",
+            "status": "Delivered",
+            "total_amount": 224.98,
+            "order_date": "2024-05-11",
+            "tracking_number": "TRK001234578",
+            "items": [
+                {
+                    "product_id": "PROD029",
+                    "quantity": 1,
+                    "price": 199.99
+                },
+                {
+                    "product_id": "PROD030",
+                    "quantity": 1,
+                    "price": 24.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD018",
+            "customer_id": "CUST033",
+            "status": "Processing",
+            "total_amount": 189.98,
+            "order_date": "2024-05-21",
+            "tracking_number": null,
+            "items": [
+                {
+                    "product_id": "PROD031",
+                    "quantity": 1,
+                    "price": 89.99
+                },
+                {
+                    "product_id": "PROD032",
+                    "quantity": 1,
+                    "price": 99.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD019",
+            "customer_id": "CUST046",
+            "status": "Shipped",
+            "total_amount": 1099.98,
+            "order_date": "2024-05-18",
+            "tracking_number": "TRK001234579",
+            "items": [
+                {
+                    "product_id": "PROD033",
+                    "quantity": 1,
+                    "price": 199.99
+                },
+                {
+                    "product_id": "PROD034",
+                    "quantity": 1,
+                    "price": 899.99
+                }
+            ]
+        },
+        {
+            "order_id": "ORD020",
+            "customer_id": "CUST012",
+            "status": "Delivered",
+            "total_amount": 649.98,
+            "order_date": "2024-05-13",
+            "tracking_number": "TRK001234580",
+            "items": [
+                {
+                    "product_id": "PROD035",
+                    "quantity": 1,
+                    "price": 249.99
+                },
+                {
+                    "product_id": "PROD036",
+                    "quantity": 1,
+                    "price": 399.99
+                }
+            ]
+        }
+    ]
+}
