@@ -13,9 +13,8 @@ from azure.search.documents.models import VectorizedQuery
 
 from agent_hackathon.data_models import Customer, Product, Order, OrderItem
 from agent_hackathon.utils.embedder import Embedder
-from agent_hackathon.utils.settings import ENVSettings
 
-settings = ENVSettings()
+from agent_hackathon.utils.config import settings
 
 class DatabaseService:
     def __init__(self,

@@ -11,8 +11,7 @@ from agent_hackathon.agent_system_prompts import (
     get_order_management_agent_prompt
 )
 
-from agent_hackathon.utils.settings import ENVSettings
-settings = ENVSettings()
+from agent_hackathon.utils.config import settings
 
 # Create the Async Azure OpenAI client
 azure_client = AsyncAzureOpenAI(

@@ -20,10 +20,9 @@ from azure.search.documents.indexes.models import (
 from openai import AzureOpenAI
 
 from agent_hackathon.utils.embedder import Embedder
-from agent_hackathon.utils.settings import ENVSettings
 
 # --- Configuration ---
-settings = ENVSettings()
+from agent_hackathon.utils.config import settings
 service_endpoint = settings.azure_search_endpoint
 embedding_endpoint = settings.azure_openai_endpoint_embedding
 search_admin_key = settings.azure_search_admin_key
