@@ -1,9 +1,6 @@
 
 from openai import AzureOpenAI
-from agent_hackathon.utils.settings import ENVSettings
-
-
-settings = ENVSettings()
+from agent_hackathon.utils.config import settings
 
 class Embedder:
     def __init__(self):

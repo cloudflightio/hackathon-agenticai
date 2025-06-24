@@ -1,7 +1,6 @@
 import mlflow
 import chainlit as cl
 import asyncio
-from agent_hackathon.utils.settings import ENVSettings
 from agent_hackathon.agent_models import (
     main_agent,
     account_billing_agent,
@@ -38,7 +37,7 @@ except Exception as e:
 set_tracing_disabled(disabled=True)
 
 # Load env vars for azure, openai
-settings = ENVSettings()
+from agent_hackathon.utils.config import settings
 
 @cl.on_chat_start
 async def start():

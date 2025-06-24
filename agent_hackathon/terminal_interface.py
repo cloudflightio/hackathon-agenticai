@@ -1,7 +1,6 @@
 # main.py
 import mlflow
 import asyncio
-from agent_hackathon.utils.settings import ENVSettings
 from agent_hackathon.agent_models import main_agent
 from agent_hackathon.utils.debug_agent import log_intermediate_agent_results
 from openai import AsyncAzureOpenAI, OpenAIError, AuthenticationError
@@ -37,7 +36,7 @@ except Exception as e:
 set_tracing_disabled(disabled=True)
 
 # Load env vars for azure, openai
-settings = ENVSettings()
+from agent_hackathon.utils.config import settings
 
 async def main():
     agent = main_agent

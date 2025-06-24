@@ -1,7 +1,10 @@
 # Agent Hackathon
 
-Welcome to the **Agent Hackathon** project!
-This repository is dedicated to building, testing, and showcasing AI agents using [OpenAI's `agents` library](https://github.com/openai/openai-agents-python) and microsoft azure.
+Welcome to the **Agent Hackathon**!
+This repository represents the challenge of the hackathon organized by cloudflight for the 2025 agentic AI roundtable at microsoft in munich.
+The idea is to implement a customer support agent for an onlince electronics retailer. More info about the task can be found down below in "Hackathon Task and Data description".
+This code is dedicated to building, testing, and showcasing this agentic approach using [OpenAI's `agents` library](https://github.com/openai/openai-agents-python) and microsoft azure.
+
 
 ## Setup and run
 
